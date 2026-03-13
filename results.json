@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "text": "The new update is fantastic! Everything loads instantly.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "POSITIVE",
+                "score": 0.9998621940612793,
+                "time": 0.43170785903930664
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "positive",
+                "score": 0.9854469299316406,
+                "time": 0.40453433990478516
+            }
+        }
+    },
+    {
+        "id": 2,
+        "text": "Worst customer service ever. I've been on hold for an hour.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "NEGATIVE",
+                "score": 0.9998064637184143,
+                "time": 0.6401216983795166
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "negative",
+                "score": 0.9596801400184631,
+                "time": 0.40438342094421387
+            }
+        }
+    },
+    {
+        "id": 3,
+        "text": "The package arrived on Tuesday via standard shipping.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "NEGATIVE",
+                "score": 0.9823893308639526,
+                "time": 0.39920854568481445
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "neutral",
+                "score": 0.6664548516273499,
+                "time": 0.3323373794555664
+            }
+        }
+    },
+    {
+        "id": 4,
+        "text": "The UI looks great but the app crashes every 5 minutes.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "NEGATIVE",
+                "score": 0.9990366697311401,
+                "time": 0.3274116516113281
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "negative",
+                "score": 0.8188714385032654,
+                "time": 0.3359858989715576
+            }
+        }
+    },
+    {
+        "id": 5,
+        "text": "Oh brilliant, another unexpected error. Just what I needed today.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "POSITIVE",
+                "score": 0.9908149838447571,
+                "time": 0.33665990829467773
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "positive",
+                "score": 0.7302419543266296,
+                "time": 0.36033010482788086
+            }
+        }
+    },
+    {
+        "id": 6,
+        "text": "This feature is totally fire (fire) pure W",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "POSITIVE",
+                "score": 0.9980459213256836,
+                "time": 0.3685038089752197
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "positive",
+                "score": 0.9785497784614563,
+                "time": 0.3342266082763672
+            }
+        }
+    },
+    {
+        "id": 7,
+        "text": "ok",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "POSITIVE",
+                "score": 0.9997851252555847,
+                "time": 0.3230607509613037
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "neutral",
+                "score": 0.5057828426361084,
+                "time": 0.33657383918762207
+            }
+        }
+    },
+    {
+        "id": 8,
+        "text": "While I appreciate the prompt delivery, the product box was damaged, though the item itself seems unharmed.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "NEGATIVE",
+                "score": 0.9990690350532532,
+                "time": 0.33504581451416016
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "neutral",
+                "score": 0.4792649447917938,
+                "time": 0.3320608139038086
+            }
+        }
+    },
+    {
+        "id": 9,
+        "text": "It's not that I hate it, but I definitely don't love it either.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "NEGATIVE",
+                "score": 0.9952996969223022,
+                "time": 0.3286738395690918
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "negative",
+                "score": 0.8583356738090515,
+                "time": 0.342390775680542
+            }
+        }
+    },
+    {
+        "id": 10,
+        "text": "The battery life is acceptable.",
+        "results": {
+            "DistilBERT (Fast)": {
+                "label": "POSITIVE",
+                "score": 0.9958478212356567,
+                "time": 0.3468954563140869
+            },
+            "RoBERTa (Nuanced)": {
+                "label": "positive",
+                "score": 0.7363868355751038,
+                "time": 0.3407876491546631
+            }
+        }
+    }
+]
